@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JLabel" name="txt_jowar">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="MS Reference Sans Serif" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;&lt;h1&gt;Planting Your Wheat&lt;/h1&gt; &lt;b&gt;1) Choosing a Suitable Location&lt;/b&gt;&lt;br&gt; bPick an area with full sun. &lt;/b&gt;Wheat does best with a lot of sunlight, so try to pick an area that doesn&apos;t get much or any shade during the day. &#xa;Watch your garden off and on throughout the day to find the best area for full sun. If you don&apos;t have a full-sun location, just pick the sunniest spot you can.&lt;br&gt;&#xa;  &lt;b&gt;2) Carve out a large area of your garden for growing wheat. &lt;/b&gt;Wheat has a relatively low yield in relation to the space it takes up in your garden. You need about 90 square yards (75 m2) to produce about 50 &#xa;pounds (23 kg) of wheat, the amount of wheat an average person consumes in a year. Put in other terms, you need an area that&apos;s at least 16.5 feet (5.0 m) by 16.5 feet (5.0 m) to produce enough wheat for 1 person for a year.&#xa; However, you could always plant less than that and just replace some of the wheat you buy each year. Keep in mind that in colder areas, you&apos;ll likely have a lower yield, as little as 60 pounds (27 kg) per 1,100 square feet (100 m2).&#xa;You shouldn&apos;t expect high yields with your first crop. Growing wheat, like growing any vegetable, involves a learning curve.&lt;br&gt;&#xa;&lt;b&gt;3) Test the soil pH level.&lt;/b&gt;Purchase a pH testing kit from a local gardening store or online. Follow the instructions on the back of your kit to determine the pH level of your soil. You can also send samples to &#xa;a lab to test your soil, either from your local agriculture extension office at a university or from another soil-testing lab.Wheat doesn&apos;t like low pH levels, so if yours are below 7, amend the soil.&#xa; Add about 2.5 pounds (1.1 kg) of limestone per 100 square feet (9.3 m2) of soil for each half a level you need to increase the pH.&lt;br&gt;&#xa;&lt;b&gt;4) Turn the soil to get it ready for wheat.&lt;/b&gt; Turning or digging the soil helps loosen it up, improving airflow and helping the plant grow. The simplest method to turn the soil is to take a spadeful from the ground, and flip it over in the same spot. Go across the whole bed this way. Only dig 2 to 3 inches (5.1 to 7.6 cm) down into the soil.You can also dig trenches, and flip the soil from one trench into the previous trench. If your plot is large, you can use a rototiller to turn your soil more easily.&lt;br&gt;&#xa; &lt;b&gt;5) Till the soil with a fine rake.&lt;/b&gt;Wheat does best in soil without large clumps. Go over your garden patch with a fine rake or tiller to break up any clumps and ready the soil for planting. Walk over the soil to help even it out, and then till it once more.&lt;br&gt;&#xa;&lt;h1&gt;Planting Wheat&lt;/h1&gt;&lt;b&gt;1)Choose winter wheat up to growing zone 3.&lt;/b&gt; You plant winter wheat in the fall, so it is a relatively sturdy plant. However, it won&apos;t survive very cold growing areas, such as any growing area at zone 3 or above.&#xa;Some winter wheat varieties will survive down to &#x2212;10 &#xb0;F (&#x2212;23 &#xb0;C). Plant winter wheat seeds about 6 weeks before the first expected frost. While winter wheat does well in cooler climates, you do need to sow it when it&apos;s a bit warmer. Doing so will help the wheat germinate more readily.&lt;br&gt;&#xa;&lt;b&gt;2)Try spring wheat if you live in a hardiness zone 3 or colder.&lt;/b&gt;Because winter wheat won&apos;t survive where it&apos;s very cold, opt for spring wheat in those areas. In the United States, only the very northern states in the Midwest and East Coast fall into zone 3, such as most of Montana, Wisconsin, North Dakota, and Minnesota and parts of Michigan, New York, Vermont, and Maine, so those are the areas you should plant spring wheat instead. Plant spring wheat after the last frost in your area. Check weather sites for when the first and last frosts typically happen in your area.&lt;br&gt;&#xa;&lt;b&gt;3)Toss the seeds on the ground with your hand.&lt;/b&gt; You don&apos;t need to plant the seeds in evenly spaced holes with wheat. Instead, just scatter the seeds with your hand across the area you&apos;ve prepared. Aim for about 1 seed per 1 square inch (6.5 cm2). You won&apos;t be able to get this exactly precise, and that&apos;s fine. If you&apos;re not confident you can spread the seed uniformly, try a broadcast seed spreader, which you can find in the lawn section at your local home improvement or gardening store. Adjust the hole size at the bottom for wheat, and then roll it over the garden area. It will disburse the seed evenly for you.&lt;br&gt;&#xa;&lt;b&gt;Rake the ground lightly to cover up the seeds.&lt;/b&gt;If you don&apos;t cover the seeds with a little soil, birds will eat them. Just run a fine rake over the area to move the soil on top of the seeds.&lt;br&gt;&#xa;&lt;b&gt;Water the ground to start the germination process. &lt;/b&gt;Use a hose with a gentle head to spray the ground with water until the area is fairly well saturated. The water will help the seeds begin the growth process.&lt;br&gt;&#xa;&lt;h1&gt;Maintaining Your Wheat&lt;/h1&gt; &lt;b&gt;1)Repel slugs and snails when the plants are young.&lt;/b&gt; These bugs can ruin your crop when it&apos;s just coming up. Use slug repellents or spread diatomaceous earth on top of the soil to keep the slugs at bay.&#xa;Diatomaceous earth is harmless to humans and animals. It basically drys out any crawling insect, keeping them away from your plants. You can find it online or in organic garden stores.&lt;br&gt;&#xa;&lt;b&gt;2)Water the plants 1-2 times a week in very dry weather.&lt;/b&gt; Typically, you won&apos;t need to water wheat, as it is fairly hardy. If you&apos;ve gone more than a week without rain, give the wheat a good soaking.Fortunately, because you plant wheat so close together, you don&apos;t need to worry about weeds, as they have no room to grow.&lt;br&gt;&#xa;&lt;b&gt;3)Apply a fungicide if you see drooping leaves and rusty patches.&lt;/b&gt; If you see these signs, you may have a fungus such as rust or blotch. Apply a fungicide to help prevent the spread of the disease. Typically, you&apos;ll only apply these once when you see the disease popup, and spraying is a common method of application. However, it varies based on what kind of fungicide you choose, so always read the directions. Pick a fungicide meant to treat wheat, which may be listed under &quot;cereal&quot; or &quot;grain.&quot; Typically, the active ingredients you&apos;ll need will be one of the following: propiconazole, azoxystrobin, trifloxystrobin, Pyraclostrobin, or Tebuconazole.&lt;br&gt;&#xa;&lt;h1&gt;Harvesting the Stalks&lt;/h1&gt;&lt;b&gt;1)Watch for the maturation of the grain.&lt;/b&gt; Once your wheat develops stalk heads, check the growth of the grains. When the head starts turning all brown or mostly brown, you&apos;re near the end of the maturity cycle. The head of the stalk will also start to bend over when it&apos;s ready to be harvested.&lt;br&gt;&#xa;&lt;b&gt;2)Cut stalks when the grains reach the &quot;hard dough&quot; stage. &lt;/b&gt;Grain goes through 4 stages. It has a soft, milky stage (like corn on the cob), a soft dough stage, a hard dough stage, and a flint stage. In the hard dough stage, you should be able to dent the grain with a fingernail, but it shouldn&apos;t squish. Typically, the grains will reach this stage about 30 days after the heads flower.&lt;br&gt;&#xa;&lt;b&gt;3)Harvest the stalks with a scythe or pruning shears. &lt;/b&gt;If you don&apos;t have a lot of wheat, simply cut off about 10 inches (25 cm) of stalk near the grain head. If you have a scythe or other large harvesting knife, grasp the stalks in the middle, then cut them at the bottom of the plant near the soil.&lt;br&gt;&#xa;&lt;b&gt;4)Let the grain cure in bundles.&lt;/b&gt;Make piles of the stalks as you cut them. When you have a large pile that you can still wrap your arms around, tie up the stalks in a large bundle with string or even just a green stalk of wheat. Lean the bundles against each other to help them stand up, and let them sit in the sun for 3 or 4 days, until the grain hardens to the flint stage. Some rain won&apos;t hurt the grain. If you have a downpour or rain over a couple of days, cover the wheat with a tarp. You can harvest the grain in the flint stage instead of letting it dry after you cut the stalks. However, you&apos;ll get a better-tasting and better-grinding wheat if you let it dry to the flint stage after you cut it.&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,3,113,0,0,6,83"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="66" red="33" type="rgb"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="40" y="30" width="290" height="820"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="false"/>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="brinjal">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="99" red="0" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.BevelBorderInfo">
+                <BevelBorder>
+                  <Color PropertyName="highlightOuter" blue="ff" green="ff" id="white" palette="1" red="ff" type="palette"/>
+                  <Color PropertyName="highlightInner" blue="ff" green="ff" id="white" palette="1" red="ff" type="palette"/>
+                </BevelBorder>
+              </Border>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="brinjalMouseClicked"/>
+            <EventHandler event="mouseEntered" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="brinjalMouseEntered"/>
+            <EventHandler event="mouseExited" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="brinjalMouseExited"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="50" y="40" width="190" height="30"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel2">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="MS Reference Sans Serif" size="14" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Brinjal"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="tomato">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="99" red="33" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.BevelBorderInfo">
+                <BevelBorder>
+                  <Color PropertyName="highlightOuter" blue="ff" green="ff" id="white" palette="1" red="ff" type="palette"/>
+                  <Color PropertyName="highlightInner" blue="ff" green="ff" id="white" palette="1" red="ff" type="palette"/>
+                </BevelBorder>
+              </Border>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="tomatoMouseClicked"/>
+            <EventHandler event="mouseEntered" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="tomatoMouseEntered"/>
+            <EventHandler event="mouseExited" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="tomatoMouseExited"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="50" y="70" width="190" height="30"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel3">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="MS Reference Sans Serif" size="14" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Tomato"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="cabbage">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="99" red="33" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.BevelBorderInfo">
+                <BevelBorder>
+                  <Color PropertyName="highlightOuter" blue="ff" green="ff" id="white" palette="1" red="ff" type="palette"/>
+                  <Color PropertyName="highlightInner" blue="ff" green="ff" id="white" palette="1" red="ff" type="palette"/>
+                </BevelBorder>
+              </Border>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="cabbageMouseClicked"/>
+            <EventHandler event="mouseEntered" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="cabbageMouseEntered"/>
+            <EventHandler event="mouseExited" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="cabbageMouseExited"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="50" y="100" width="190" height="30"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel4">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="MS Reference Sans Serif" size="14" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Cabbage"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="bhendi">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="99" red="33" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.BevelBorderInfo">
+                <BevelBorder>
+                  <Color PropertyName="highlightOuter" blue="ff" green="ff" id="white" palette="1" red="ff" type="palette"/>
+                  <Color PropertyName="highlightInner" blue="ff" green="ff" id="white" palette="1" red="ff" type="palette"/>
+                </BevelBorder>
+              </Border>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="bhendiMouseClicked"/>
+            <EventHandler event="mouseEntered" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="bhendiMouseEntered"/>
+            <EventHandler event="mouseExited" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="bhendiMouseExited"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="50" y="130" width="190" height="30"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel5">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="MS Reference Sans Serif" size="14" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Bhendi"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="99" red="33" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="MS Reference Sans Serif" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Back"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="80" y="650" width="140" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel4">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="99" red="0" type="rgb"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="330" y="30" width="1270" height="820"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="false"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="txt_brinjal">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="MS Reference Sans Serif" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt;&lt;h1&gt;Planting Your Brinjal&lt;/h1&gt; &lt;b&gt;1) Climate :&lt;/b&gt; Brinjal is a warm season crop and requires a long warm growing season. It is very susceptible to frost. A daily mean temperature of 13-21 oC is most favourable for&#xa; its successful production. The growth of the crop is severely affected when temperature falls below 17 oC. It can be successfully grown as a rainy season and summer season crop and can be grown at an elevation of 1200m above &#xa;the sea level.&lt;br&gt;&#xa;&lt;b&gt;2) Season :&lt;/b&gt; It can be grown in plains throughout the year but rabi season is the best.&lt;br&gt;&#xa;    Rainy Season - June &#x2013; July&lt;br&gt;&#xa;    Winter Season - October &#x2013; November&lt;br&gt;&#xa;    Summer Season - February &#x2013; March&lt;br&gt;&#xa;&lt;b&gt;3) Soil: &lt;/b&gt; Brinjal is a hardy crop and is cultivated under a wide range of soils. Since a long duration crop with high yield, well -drained and fertile soil is preferred for the crop. Crops grown in sandy &#xa;soils yield early and those grown in clayey soils yield more. Ideal pH for cultivation of crop is 5.5 - 6.6.&lt;br&gt;&#xa;&lt;b&gt;4) Seed rate and treatment:&lt;/b&gt; On an average 370 - 500 g seed is required for raising required seedlings for one ha land.&lt;br&gt;&#xa;Seed treatment :&lt;br&gt;&#xa;Seed treatment with Trichoderma viridae / T. harzianum @ 2g /100 g of seeds to prevent seed and soil borne infection of fungal diseases. Or Treat the seeds with (Carboxyn 37.5% + Thiram 37.5%) DS @ 1.5g or (Carbendazim 1.0g + Thiram 1.5g)/ kg of seeds.&lt;br&gt;&#xa;&lt;b&gt;5) Planting:&lt;/b&gt;Land Preparation:&#xa;The field is ploughed to fine tilth by giving four to five ploughing with a sufficient interval between two ploughing. Planking should be done for proper levelling. The field is then divided into beds and channels. &#xa;Well-decomposed FYM is thoroughly incorporated at the time of land preparation.&lt;br&gt;&#xa;Spacing:&#xa;Spacing depends upon the type of variety grown and the season of planting. Normally the long fruited varieties are transplanted at 60 x 45 cm, the round varieties at 75 x 60 cm and high yielding varieties at 90 x 90 cm spacing. &#xa;Seedlings are transplanted in furrows in light soils and on side of the ridges in case of heavy soils. A pre-soaking irrigation is given 3-4 days prior to transplanting. At the time of transplanting, the roots of the seedlings should be&#xa; dipped in a solution of Bavistin (2g/litre of water). Transplanting should preferably be done in the evening.&lt;br&gt;&#xa;&lt;b&gt;6)Manure and fertilizers:&lt;/b&gt;&#xa;The fertilizer dose depends upon the fertility of soil and amount of organic manure applied to the crop. For a good yield, 15-20 tonnes of well-decomposed FYM is incorporated into the soil.&#xa;&#xa;Generally, application of 150 kg N, 100 kg P2O5 and 50 kg K2O is recommended for optimum yield. Half dose of N 25 2 and full dose of P and K is given at the time of planting. The balance half of N is given in 3 equal split doses. The first split dose is given one and half month after transplanting, the second dose one month after the first application and the final at three and half months after transplanting.&#xa;&#xa;For hybrid varieties, the recommended dose is 200 kg N, 100 kg P2O5 and 100 Kg K2O. Out of this dose, 25 2 25 % of N and 100 % of P &amp; K is applied as basal dose. Remaining 75 % of P is applied in three equal split doses. The first split dose of N is applies 20 days after transplanting. The second dose is given just before the onset of flowering while the third after the first picking/harvesting.&#xa;&lt;br&gt;&#xa;&lt;b&gt;7) Irrigation:&lt;/b&gt;Continuous supply of moisture should be maintained around the root zone of the plant. A light irrigation is given on the first and third day after transplanting. Thereafter irrigation is given at an interval of 8-10 &#xa;days during winter and 5-6 days during summer.&lt;br&gt;&#xa;&lt;b&gt;8) Intercultural Operations: &lt;/b&gt;The field should be kept weed-free, especially in the initial stage of plant growth, as weeds compete with the crop and reduce the yield drastically. Frequent shallow &#xa;cultivation should be done at regular interval so as to keep the field free from weeds and to facilitate soil aeration and proper root development. Deep cultivation is injurious because of the damage of roots &#xa;and exposure of moist soil to the surface. Two-three hoeing and the earthing up are required to keep the crop free of weeds. Pre- emergence application of Fluchloralin (1.5 kg a.i./ha) coupled with one hand &#xa;weeding 30 days after transplanting is effective for control of weeds.&lt;br&gt;&#xa;&lt;b&gt;9) Plant protection: &lt;/b&gt;Pests : Pests Fruit and shoot borer, jassids, Epilachna beetle and mites are the major pests.&lt;br&gt;&#xa;Diseases : Diseases Bacterial wilt Fusarian wilt, Phomopsis blight, little leaf, mosaic and damping off are the major diseases.&lt;br&gt;&#xa;&lt;b&gt;10) Harvesting:&lt;/b&gt;The fruits become ready for first picking in about 120-130 days of seed sowing depending on the variety. The harvesting of the fruits should be done as soon as it attains a good size and colour. &#xa;Fruits are harvested when they become greenish yellow or bronze and their flesh turns dry and tough. Pressing the thumb against the side of the fruit can indicate the maturity of the fruit. If the pressed portion springs back to &#xa;its original shape, the fruit is too immature. Some portion of the calyx and the stem-end is retained on the fruit during harvesting. Since all the fruits do not mature at the same time, the fruits are harvested at an interval of 8-10 days.&lt;br&gt;&#xa;&lt;b&gt;11) Yeild: &lt;/b&gt;Depending on variety and season the average yield of brinjal varies from 20-30 t/ha.&lt;br&gt;&#xa;&lt;/html&gt;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="0" width="1220" height="-1"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="txt_cabbage">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="MS Reference Sans Serif" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt;&lt;h1&gt;Planting Your Cabbage&lt;/h1&gt; &lt;b&gt;1) Climate and Soil :&lt;/b&gt; Cultivation of cabbage is done mainly on sandy to heavy soils rich in organic matter. Early crops prefer light soil while late crops thrive better on heavier soils due to retention of moisture. On heavy soils, plants grow more slowly and the keeping quality is improved. A pH range of 6.0-6.5 is considered as optimum for growing cabbage. Plants growing in saline soils are prone to diseases.&#xa;In India, cabbage is grown in large areas having a cool and moist climate. A temperature range of 15o-21o C is considered as optimum for growth and head formation of the crop. The intensity of flowering &#xa;depends upon the age of the plants and the period for which they are exposed to low temperatures.&lt;br&gt;&#xa;&lt;b&gt;2) Propagation :&lt;/b&gt;&#xa;Season of Planting : Sowing time depends upon the variety and the agro-climatic conditions prevailing in a particular region. Early cabbage is sown during July-November in plains and April-August in hills, &#xa;as these require a longer period for their head formation.&lt;br&gt;&#xa;Raising of Seedlings : About 300-500g of seed are sufficient for raising nursery required to plant one hectare. Prior to sowing seeds are treated with fungal culture of Trichoderma viride (4 g/ kg of seed) or Thiram (3g/ kg of seed) to avoid damage from damping-off disease. Sowing should be done thinly in lines spaced at 5-7 cm distance. Seeds are sown at a depth of 1-2 cm and covered with a fine layer of soil followed by light watering by water can. The beds should then be covered with dry straw or grass or sugarcane leaves to maintain required temperature and moisture. The watering should be done by water can as per the need till germination is completed. The cover of dry straw or grass is removed immediately after emergence of seed sprout. If there is over crowding of seedling due to thick sowing, the extra seedlings should be thinned out.&#xa;The seedlings should be transplanted within 4-6 weeks of sowing. Older seedlings when transplanted result in poor growth and yield.&lt;br&gt;&#xa;&lt;b&gt;3) Planting:&lt;/b&gt;Land Preparation:&#xa;The field is ploughed to fine tilth by giving four to five ploughing with a sufficient interval between two ploughing. Planking should be done for proper levelling. The transplanting is done on the flat land, &#xa;ridges or in furrows depending on climate and soil conditions. For early planting, ridge method is suitable especially in areas where the rains occur at the time of planting. In saline soils, planting in furrows and &#xa;in dry areas transplanting on flat beds is recommended.&lt;br&gt;&#xa;Spacing: The planting distance may vary according to variety, planting season and soil conditions. The following distances are generally recommended on the basis of maturity of varieties:&lt;br&gt;&#xa;    Early maturity varieties : 45 x 45 or 60 x 30 cm ;&#xa;    Mid : 60 x 45 cm ;&#xa;    Late : 60 x 60 cm or 75 x 60 cm &lt;br&gt;&#xa;Method of Planting : Transplanting should be done preferably in the morning or late evening. Before transplanting, the roots of the seedlings are dipped in a solution of Bavistin (2g/litre of water). Irrigation should be &#xa;given immediately after transplanting. In some parts of the country, beds are first irrigated and then the seedlings are transplanted.&lt;br&gt;&#xa;&lt;b&gt;3) Manures and fertilizers :&lt;/b&gt;The fertilizer dose depends upon the fertility of soil and amount of organic manure applied to the crop. For a good yield, 15-20 tonnes of well-decomposed FYM is incorporated into the soil about &#xa;4 weeks before transplanting. Generally, application of 80-120 kg N, 60-100kg P2O5 and 60-120 kg K2O is recommended for optimum yield. Half the dose of N and entire amount of P and K is given at the time of transplanting. The&#xa; balance N is given six weeks after transplanting or at the time of earthing up.&lt;br&gt;&#xa;&lt;b&gt;4) Irrigation:&lt;/b&gt;First irrigation is given just after transplanting of seedlings and subsequent irritations are given at an interval of 10-15 days depending upon the season and soil conditions. Care should be taken to avoid water stress from the time of head formation to the head maturity period. At the time of crop maturity, irrigation should be avoided as excess irrigation at this stage causes splitting of heads.&lt;br&gt;&#xa;&lt;b&gt;5) Manuring &amp; Fertilization : &lt;/b&gt;The fertilizer dose depends upon the fertility of soil and amount of organic manure applied to the crop. For a good yield, 15-20 tonnes of well-decomposed FYM is incorporated into the soil. Generally, application of 120 kg N, 80 kg P2O5 and 50 kg K2O per hectare is recommended for getting optimum yield. Half dose of N and full dose of P and K is given at the time of planting. The balance half of N is given as top dressing 30 days after transplanting. For hybrid varieties, the recommended dose per hectare is 180 kg N, 100 kg P2 O5 and 60 kg K2 O. 60 kg N and half of P &amp; K are &#xa;given at the time of transplanting. Remaining quantities of P &amp; K and 60 kg N is top dressed 30 after transplanting. A third dose of 60 kg N is applied 50 days after transplanting.&lt;br&gt;&#xa;&lt;b&gt;8) Harvesting: &lt;/b&gt;Cabbage is ready for harvest at 90-120 days after planting. Cabbage should be harvested promptly when the heads are firm and mature. Delaying harvest, even a few days beyond maturity can result in split heads and increased incidence of field disease.&#xa;Harvesting immature heads, however, reduces yield, and the heads are too soft to resist handling damage. Immature heads also have a shorter shelf life than mature heads.&#xa;The head is harvested by bending it to one side and cutting it with a knife. The stalk should be cut flat and as close to the head as possible, yet long enough to retain two to four wrapper leaves. Extra leaves act as cushions during handling and may be desired in certain markets. The head should not be removed by snapping or twisting it since this practice damages the head and results in inconsistent stalk length. Broken stalks are also more susceptible to decay. As the heads are not ready for harvest at the same time, therefore they are harvested in stages based on the maturity of the heads.&#xa;Harvested produce should always be stored in shade before packing.&lt;br&gt;&#xa;&lt;b&gt;9) Yeild: &lt;/b&gt;Yield of the cabbage varies greatly depending upon variety, maturity group and season of cultivation. Average yield obtained from early varieties is 25-30 t/ha and that of late type is 40-60 t/ha.&lt;br&gt;&#xa;&lt;/html&gt;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="0" width="1260" height="-1"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="txt_tomato">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="MS Reference Sans Serif" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt;&lt;h1&gt;Planting Your Tomato&lt;/h1&gt; &lt;b&gt;1) Climate :&lt;/b&gt; Tomato is a warm season crop. The best fruit colour and quality is obtained at a temperature range of 21-24&#xb0;C. Temperatures above 32o C adversely affects the fruit set and development. The plants cannot withstand frost and high humidity. It requires a low to medium rainfall. Bright sunshine at the time of fruit set helps to develop dark red coloured fruits. Temperature below 10 oC adversely affects plant tissues thereby slowing down physiological activities.&lt;br&gt;&#xa;&lt;b&gt;2) Soil: &lt;/b&gt; Tomato can be grown on a wide range of soils from sandy to heavy clay. However, well-drained, sandy or red loam soils rich in organic matter with a pH range of 6.0-7.0 are considered as ideal.&lt;br&gt;&#xa;&lt;b&gt;3) Propagation :&lt;/b&gt;&#xa;Season of Planting : Seeds are sown in June July for autumn winter crop and for spring summer crop seeds are sown in November. In the hills seed is sown in March April.&lt;br&gt;&#xa;Raising of Seedlings : About 250-300 g of seed are sufficient for raising seedlings for one hectare of land. Prior to sowing seeds are treated with fungal culture of Trichoderma viride (4 g/ kg of seed) or &#xa;Thiram (2g/kg of seed) to avoid damage from damping-off disease. Sowing should be done thinly in lines spaced at 10-15 cm distance. Seeds are sown at a depth of 2-3 cm and covered with a fine layer of soil &#xa;followed by light watering by water can. The beds should then be covered with dry straw or grass or sugarcane leaves to maintain required temperature and moisture. The watering should be done by water can as per the &#xa;need till germination is completed. The cover of dry straw or grass is removed immediately after germination is complete. During the last week in nursery, the seedlings may be hardened by slightly withholding water. The &#xa;seedlings with 5-6 true leaves are ready for transplanting within 4 of sowing. &lt;br&gt;&#xa;&lt;b&gt;4) Planting:&lt;/b&gt;Land Preparation:&#xa;The field is ploughed to fine tilth by giving four to five ploughing with a sufficient interval between two ploughing. Planking should be done for proper levelling. Furrows are then opened at the recommended spacing. &#xa;Well-decomposed FYM (25 t/ha) is thoroughly incorporated at the time of land preparation.&lt;br&gt;&#xa;Spacing:&#xa;Spacing depends upon the type of variety grown and the season of planting. Normally the seedlings are transplanted at a spacing of 75-90 x 45-60 cm.&lt;br&gt;&#xa;Method of Planting : Seedlings are transplanted in furrows in light soils and on side of the ridges in case of heavy soils. A pre-soaking irrigation is given 3-4 days prior to transplanting. &#xa;Before planting seedlings should be dipped in a solution prepared by Nuvacron (15ml) and Dithane M - 45 (25g) in 10 litres of water for 5-6 minutes. Transplanting should preferably be done in the evening.&lt;br&gt;&#xa;&lt;b&gt;6) Irrigation:&lt;/b&gt;Tomato is very sensitive to water application. Heavy irrigation provided after a long spell of drought causes cracking of the fruits. Hence it should be avoided. Light irrigation&#xa; should be given 3-4 days after transplanting. Irrigation intervals should be according to soil type and rainfall, irrigation should be given 7-8 days interval during kharif, during rabi 10-12 days and 5-6 days during summer.&#xa;Flowering and fruit development are the critical stages of tomato therefore; water stress should not be given during this period.&lt;br&gt;&#xa;&lt;b&gt;7) Manuring &amp; Fertilization : &lt;/b&gt;The fertilizer dose depends upon the fertility of soil and amount of organic manure applied to the crop. For a good yield, 15-20 tonnes of well-decomposed FYM is incorporated into the soil. Generally, application of 120 kg N, 80 kg P2O5 and 50 kg K2O per hectare is recommended for getting optimum yield. Half dose of N and full dose of P and K is given at the time of planting. The balance half of N is given as top dressing 30 days after transplanting. For hybrid varieties, the recommended dose per hectare is 180 kg N, 100 kg P2 O5 and 60 kg K2 O. 60 kg N and half of P &amp; K are &#xa;given at the time of transplanting. Remaining quantities of P &amp; K and 60 kg N is top dressed 30 after transplanting. A third dose of 60 kg N is applied 50 days after transplanting.&lt;br&gt;&#xa;&lt;b&gt;8) Harvesting: &lt;/b&gt;Depending on the variety, fruits become ready for first picking in about 60-70 days after transplanting. The stage of harvesting depends upon the purpose to which the fruits are to be used. The different stages of &#xa;harvesting are as follows-&lt;br&gt;&#xa;a) Dark green colour - Dark green colour is changed and a reddish pink shade is observed on fruit. Fruits to be shipped are harvested at this stage. Such fruits are then sprayed with ethylene 48 hours prior to shipping. Immature green tomatoes will ripen poorly and be of low quality. A simple way to determine maturity is to slice the tomato with a sharp knife. If seeds are cut, the fruit is too immature for harvest and will not ripen properly.&lt;br&gt;&#xa;b) Breaker stage - Dim pink colour observed on &#xbc; part of the fruit. Fruits are harvested at this stage to ensure the best quality. Such fruit are less prone to damage during shipment often fetch a higher price than less mature tomatoes.&lt;br&gt;&#xa;c) Pink stage - Pink colour observed on &#xbe; part of the fruit.&lt;br&gt;&#xa;d) Reddish pink- Fruits are stiff and nearly whole fruit turns reddish pink. Fruits for local sale are harvested at this stage.&lt;br&gt;&#xa;e) Fully riped - Fruits are fully riped and soft having dark red colour. Such fruits are used for processing.&lt;br&gt;&#xa;Fruits are normally harvested early in the morning or evening. The fruits are harvested by twisting motion of hand to separate fruits from the stem. Harvested fruits should be kept only in basket or crates and keep it in shade. &#xa;Since all the fruits do not mature at the same time, they are harvested at an interval of 4 days. Generally there will be 7-11 harvests in a crop life span.&lt;br&gt;&#xa;&lt;b&gt;9) Yeild: &lt;/b&gt;The yield per hectare varies greatly according to variety and season. On an average, the yield varies from 20-25 t/ha. Hybrid varieties may yield upto 50-60 t/ha.&lt;br&gt;&#xa;&lt;/html&gt;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="0" width="1260" height="-1"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="txt_bhendi">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="MS Reference Sans Serif" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt;&lt;h1&gt;Planting Your Cabbage&lt;/h1&gt; &lt;b&gt;1) Climate:&lt;/b&gt; Bhendi requires long warm growing season during its growing period. It gives good yield in warm humid condition. It grows best within a temperature range of 24-27&#xb0;C. It &#xa;can be successfully grown in rainy season even in heavy rainfall area. Bhendi is highly susceptible to frost injury. Seeds fail to germinate when temperature is below 20o C.&lt;br&gt;&#xa;&lt;b&gt;2) Soil:&lt;/b&gt; Bhendi can be grown in a wide range of soils. However, it grows best in loose, friable, well-drained sandy loam soils rich in organic matter. It also gives good yield in heavy soils with good drainage. A pH range of 6.0-6.8 is &#xa;considered as optimum. Alkaline, saline soils and soils with poor drainage are not good for this crop.&lt;br&gt;&#xa;&lt;b&gt;3) Season :&lt;/b&gt;The optimum time of seed sowing varies greatly depending upon climate, varieties and their temperature requirement for growth. Normally the crop is sown between January-March and June- August. The exact month of sowing depends on the region.&#xa;&lt;br&gt;&#xa;&lt;b&gt;4) Seed rate and seed treatment :&lt;/b&gt; Bhendi requires about 3.5-5.5 kg seeds/ha during summer seasons and 8-10 kg seeds/ha for rainy season crop. The seed rate generally varies with germination percentage, spacing and season. Before sowing the seeds are soaked in a solution of Bavistin (0.2%) for 6 hours. The seeds are then dried in shade. :&lt;br&gt;&#xa;&lt;b&gt;5) Land preparation :&lt;/b&gt;The land should be well prepared with 2-3 ploughing. Well decomposed FYM (25 t/ha) is incorporated at the time of land preparation. Bhendi is sown on ridges or on flat soil. If soil is heavy, sowing should be done on ridges. Application of organic manure like neem cake and poultry manures improves the plant growth and the yield in this crop. It is possible to reduce the use fertilizer by using neem cake and poultry manures.&lt;br&gt;&#xa;&lt;b&gt;6) Sowing :&lt;/b&gt;The hybrid varieties are planted at a spacing of 75 x 30 cm or 60 x 45 cm. A pre-soaking irrigation 3-4 days before sowing is beneficial. The seeds germinate in about 4-5 days.&lt;br&gt;&#xa;&lt;b&gt;7) Manuring &amp; Fertilization : &lt;/b&gt;The fertilizer dose depends upon the fertility of soil and amount of organic manure applied to the crop. About 20-25 t/ha of FYM is mixed at the time of land preparation. Generally, application of 100 kg N, 60 kg P2O5 and 50 kg K2O is recommended for optimum yield. Half dose of N and full dose of P2O5 and K2O are applied at the time of planting. The balance half of N if given 30 days after sowing followed by earthing up operation.&#xa;Fertilizers are applied by opening up a deep narrow furrow on one side of each sowing ridge. Generally, nitrogen fertilizers like urea, calcium ammonium nitrate (CAN) and ammonium sulphate should be used for this crop.&#xa;For hybrid varieties the recommended dose is 150 kg N, 112 kg P2O5 and 75 Kg K2O. Out of this dose, 30 % of N and 50 % of P &amp; K is applied as basal dose. Remaining 50 % of P and 40 % of N and 25 % of K is applied as first top dressing four weeks after sowing. Balance quantity of 30 % N and 25 % K is applied as second top dressing about 7 weeks after sowing.&#xa;&lt;br&gt;&#xa;&lt;b&gt;8) Irrigation : &lt;/b&gt;Irrigation frequency in bhendi crop varies with the season and the soil type. Bhendi is grown without irrigation in rainy season in high rainfall area where distribution of rainfall is uniform throughout the &#xa;growing season. A light irrigation is given soon after seed sowing to ensure good germination. The crop is irrigated at an interval of 4-5 days in summer. Moisture stress at fruit setting stage reduces the fruit quality and the yield. &#xa;Normally the crop is irrigated by adopting the furrow method of irrigation.&lt;br&gt;&#xa;&lt;b&gt;9) Plant Protection : &lt;/b&gt; Pests : Shoot and Fruit Borer, Leaf Hopper, Okra Stemfly Mites, White fly and Root-Knot Nematode are the major pests.&lt;br&gt;&#xa;Diseases : Damping off, Fusarium wilt, Powdery mildew, Cercospora Leaf Spot, Yellow Vein Mosaic Virus and Enation Leaf Curl are the major diseases.&lt;br&gt;&#xa;&lt;b&gt;10) Harvesting: &lt;/b&gt;The fruits are ready for harvest in about 45-60 days after seed sowing depending upon variety and season. Size of the pod and stage at which it is harvested varies with variety/hybrid and market preference. Generally, medium sized (7-10 cm long) tender pods, which can be easily snapped from the plant, are harvested. As all the fruits do not mature at the same time, harvesting is carried out once in 3-4 days. Frequent picking promotes fruit development and prevents the pods from growing too large.&lt;br&gt;&#xa;&lt;b&gt;9) Yeild: &lt;/b&gt;Yield of the Bhendi varies greatly depending upon variety and season of cultivation. On an average bhendi yields 7.5-10 t/ha while the yield of hybrid varieties ranges from 15-22 t/ha.&lt;br&gt;&#xa;&lt;/html&gt;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="0" width="1260" height="-1"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/farmerbuddy/iamges/veghome.jpg"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="1620" height="880"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+  </SubComponents>
+</Form>
