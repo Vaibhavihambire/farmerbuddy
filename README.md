@@ -37,4 +37,5 @@ Edit the code to customize the application as needed.
 # Contact
 For any questions or feedback, please contact me at hambirevaibhavi21@gmail.com
 
+#
 Thank you for using Farmer Buddy! Together, let's make agriculture healthier and more sustainable.
