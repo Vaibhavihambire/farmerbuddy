@@ -12,24 +12,24 @@ NetBeans IDE 8.2
 
 Java Development Kit (JDK) 8
 
-## Clone the Repository:
+## 1. Clone the Repository:
     git clone https://github.com/yourusername/farmer-buddy.git
 
-## Open in NetBeans:
+## 2. Open in NetBeans:
 Open NetBeans IDE 8.2.
 
 Go to 'File -> Open Project'.
 
 Navigate to the cloned repository folder and open the project.
 
-## Run the Application:
+## 3. Run the Application:
 Right-click on the project in the Projects window.
 
 Select "Clean and Build."
 
 Select "Run".
 
-## Explore and Customize:
+## 4. Explore and Customize:
 Navigate to /src/farmerbuddy/ to explore the components.
 
 Edit the code to customize the application as needed.
